@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fralvenso.github.io/sitemap
+Sitemap: https://fralvenso.github.io/app/sitemap
+Sitemap: https://fralvenso.github.io/assets/sitemap
+Sitemap: https://fralvenso.github.io/css/sitemap
+Sitemap: https://fralvenso.github.io/includes/sitemap
+Sitemap: https://fralvenso.github.io/item/sitemap
+Sitemap: https://fralvenso.github.io/src/sitemap
